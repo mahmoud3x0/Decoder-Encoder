@@ -9,6 +9,8 @@
 # Hexa Encoding & Decoding
 # Octal Encoding & Decoding
 
+#set args for the input: python3 decoder-encoder.py --encode --url "inputString"
+
 import urllib.parse
 import html
 import base64
